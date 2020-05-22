@@ -1,0 +1,49 @@
+{
+  "list": [
+    {
+      "key": "EmptyPage",
+      "name": "空白页面",
+      "description": "一个空白的页面，一切都从这里开始！",
+      "url": "https://github.com/ant-design/pro-blocks/tree/master/EmptyPage",
+      "path": "NewPage",
+      "features": [
+        "antd"
+      ],
+      "img": "https://raw.githubusercontent.com/ant-design/pro-blocks/master/EmptyPage/snapshot.png?raw=true",
+      "tags": [
+        "空白页"
+      ],
+      "previewUrl": "https://preview.pro.ant.design"
+    },
+    {
+      "key": "BlockTemplate",
+      "description": "A block template",
+      "url": "https://github.com/juzhiyuan/dashboard-blocks/tree/master/BlockTemplate",
+      "path": "BlockTemplate",
+      "features": [
+        "antd"
+      ],
+      "img": "https://raw.githubusercontent.com/ant-design/pro-blocks/master/BlockTemplate/snapshot.png?raw=true",
+      "tags": [
+        "block",
+        "template"
+      ],
+      "previewUrl": "https://preview.pro.ant.design/block/template"
+    },
+    {
+      "key": "PluginForm",
+      "description": "A form for configuring plugin properties.",
+      "url": "https://github.com/juzhiyuan/dashboard-blocks/tree/master/PluginForm",
+      "path": "PluginForm",
+      "features": [
+        "antd"
+      ],
+      "img": "https://raw.githubusercontent.com/ant-design/pro-blocks/master/PluginForm/snapshot.png?raw=true",
+      "tags": [
+        "plugin",
+        "表单"
+      ],
+      "previewUrl": "https://preview.pro.ant.design/plugin/form"
+    }
+  ]
+}

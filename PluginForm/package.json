@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/PluginForm",
+  "version": "0.0.1",
+  "description": "A form for configuring plugin properties.",
+  "main": "src/index.js",
+  "authors": {
+    "name": "Zhiyuan Ju",
+    "email": "juzhiyuan@apache.org"
+  },
+  "repository": "juzhiyuan/dashboard-blocks/PluginForm",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
+}
