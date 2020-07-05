@@ -28,28 +28,28 @@
     "**/*.{js,ts,tsx}": "npm run lint-staged:js"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.0.0",
-    "@ant-design/pro-cli": "^2.0.2",
+    "@ant-design/icons": "4.2.1",
+    "@ant-design/pro-cli": "2.0.2",
     "@ant-design/pro-layout": "6.0.0-2",
-    "antd": "^4.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "umi": "^3.1.0",
-    "umi-request": "^1.0.8"
+    "antd": "4.4.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "umi": "3.2.7",
+    "umi-request": "1.3.5"
   },
   "devDependencies": {
-    "@types/react-dom": "^16.8.4",
-    "@umijs/fabric": "^2.0.5",
-    "@umijs/preset-ant-design-pro": "^1.2.0",
-    "@umijs/preset-react": "^1.4.24",
-    "@umijs/plugin-block-devtool": "^1.1.1",
-    "cross-env": "^7.0.0",
-    "eslint": "^6.8.0",
-    "husky": "^4.0.7",
-    "lint-staged": "^10.0.1",
-    "prettier": "^2.0.2",
-    "stylelint": "^13.0.0",
-    "typescript": "^3.5.1"
+    "@types/react-dom": "16.9.8",
+    "@umijs/fabric": "2.2.1",
+    "@umijs/preset-ant-design-pro": "1.2.2",
+    "@umijs/preset-react": "1.5.15",
+    "@umijs/plugin-block-devtool": "1.2.3",
+    "cross-env": "7.0.2",
+    "eslint": "6.8.0",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.5",
+    "stylelint": "13.6.1",
+    "typescript": "3.9.6"
   },
   "checkFiles": [
     "**/*.ts*",
