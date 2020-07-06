@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@types/react-dom": "16.9.8",
-    "@umijs/fabric": "2.2.1",
+    "@umijs/fabric": "2.2.2",
     "@umijs/preset-ant-design-pro": "1.2.2",
     "@umijs/preset-react": "1.5.15",
     "@umijs/plugin-block-devtool": "1.2.3",
