@@ -41,7 +41,7 @@
     "@types/react-dom": "16.9.8",
     "@umijs/fabric": "2.2.1",
     "@umijs/preset-ant-design-pro": "1.2.2",
-    "@umijs/preset-react": "1.5.15",
+    "@umijs/preset-react": "1.5.17",
     "@umijs/plugin-block-devtool": "1.2.3",
     "cross-env": "7.0.2",
     "eslint": "6.8.0",
